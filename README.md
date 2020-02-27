@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/berkturk95/PollStar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/berkturk95/PollStar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# PollStarApp
+Pollstar is a blockchain application which provides secure platform to gather data for companies, foundations and governments.
+# Introduction
+Collecting data have remarkable significance for foundations. Since, analysis of collected data always play an integral role to determine a road map about future plans. Accordingly, foundations use various techniques to collect data such as social media, cookies, interviews and surveys. These all techniques contain several difficulties and easiness in it. In this project we will focus on collecting data with surveys. Lots of foundations need reliable and ethical surveys to gather data. In addition to that this need created a business sector to making profit by satisfying this necessity of foundations. Currently, there are companies which are making surveys and data analysis. These companies are necessary because they are reliable bridge between people and foundations. People trust these companies about their personal information and survey answers will be secured. However, as far as we concerned trusting survey companies is not the best way to solve issue of trust. Furthermore, it is possible to see remarkable amount of privacy violation at present time. For instance, Facebook privacy scandal is current and appropriate example to prove that even one of the biggest company is not trustable enough [1]. Therefore, trusting to intermediary companies is not the right way to handle that problem. PollStar application aims to deactivate intermediary companies by solving the issue of trust. Our application will provide people with confidential platform to state their ideas, personal information and comments. We are going to use various popular techniques (blockchain, crypto-encoding) to guarantee privacy of users. Moreover, our application will consider benefits of foundations which want to make surveys by using our application.
+# Product Website URL:
+https://mertaskaroglu.wixsite.com/pollstarapp
